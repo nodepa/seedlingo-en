@@ -15,7 +15,7 @@
       "type": "MultipleChoice",
       "multipleChoiceSpec": {
         "multipleChoiceWords": [
-          { "姐夫": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
+          { "aunt": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
           { "妹夫": "98d18086-a60a-4f81-80b3-e05bd2aaa400" },
           { "嫂子": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" },
           { "弟妹": "75a122a7-4a08-4333-acf1-072483f6a570" },
@@ -32,7 +32,7 @@
       "type": "Matching",
       "matchingSpec": {
         "matchingWords": [
-          { "姐夫": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
+          { "aunt": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
           { "妹夫": "98d18086-a60a-4f81-80b3-e05bd2aaa400" },
           { "嫂子": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" },
           { "弟妹": "75a122a7-4a08-4333-acf1-072483f6a570" },
@@ -49,19 +49,18 @@
       "type": "Explanation",
       "explanationSpec": {
         "explanation": [
-          { "姐姐": "b521f4d2-1084-4f17-af18-1bd6738d23a0" },
-          { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
+          { "big-sister's": "dc91e605-3a35-4b87-9628-eca9f85aa852" },
           { "丈夫": "76004162-7f5b-4e28-bda5-bbcb39be8165" }
         ],
         "explanationTargets": {
-          "validOption": { "姐夫": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
+          "validOption": { "aunt": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
           "invalidOptions": [
             { "妹夫": "98d18086-a60a-4f81-80b3-e05bd2aaa400" },
             { "嫂子": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" },
             { "弟妹": "75a122a7-4a08-4333-acf1-072483f6a570" }
           ]
         },
-        "audio": "audio/姐姐的丈夫.mp3"
+        "audio": "audio/big-sisters-husband.mp3"
       }
     },
     {
@@ -76,7 +75,7 @@
         "explanationTargets": {
           "validOption": { "妹夫": "98d18086-a60a-4f81-80b3-e05bd2aaa400" },
           "invalidOptions": [
-            { "姐夫": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
+            { "aunt": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
             { "嫂子": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" },
             { "弟妹": "75a122a7-4a08-4333-acf1-072483f6a570" }
           ]
@@ -96,7 +95,7 @@
         "explanationTargets": {
           "validOption": { "嫂子": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" },
           "invalidOptions": [
-            { "姐夫": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
+            { "aunt": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
             { "妹夫": "98d18086-a60a-4f81-80b3-e05bd2aaa400" },
             { "弟妹": "75a122a7-4a08-4333-acf1-072483f6a570" }
           ]
@@ -116,7 +115,7 @@
         "explanationTargets": {
           "validOption": { "弟妹": "75a122a7-4a08-4333-acf1-072483f6a570" },
           "invalidOptions": [
-            { "姐夫": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
+            { "aunt": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" },
             { "妹夫": "98d18086-a60a-4f81-80b3-e05bd2aaa400" },
             { "嫂子": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" }
           ]
