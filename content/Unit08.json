@@ -15,8 +15,8 @@
       "type": "MultipleChoice",
       "multipleChoiceSpec": {
         "multipleChoiceWords": [
-          { "外孙女": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
-          { "外孙": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
+          { "granddaughter": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
+          { "grandson": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
           { "孙女": "7f3cd2dd-da20-4c3c-8fb1-d6beefb43d0e" },
           { "孙子": "4e594d79-ec54-4cc7-8ef0-2a950ebb2de3" }
         ]
@@ -27,8 +27,8 @@
       "type": "Matching",
       "matchingSpec": {
         "matchingWords": [
-          { "外孙女": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
-          { "外孙": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
+          { "granddaughter": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
+          { "grandson": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
           { "孙女": "7f3cd2dd-da20-4c3c-8fb1-d6beefb43d0e" },
           { "孙子": "4e594d79-ec54-4cc7-8ef0-2a950ebb2de3" }
         ]
@@ -44,9 +44,9 @@
           { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" }
         ],
         "explanationTargets": {
-          "validOption": { "外孙女": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
+          "validOption": { "granddaughter": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
           "invalidOptions": [
-            { "外孙": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
+            { "grandson": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
             { "孙女": "7f3cd2dd-da20-4c3c-8fb1-d6beefb43d0e" },
             { "孙子": "4e594d79-ec54-4cc7-8ef0-2a950ebb2de3" }
           ]
@@ -64,9 +64,9 @@
           { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" }
         ],
         "explanationTargets": {
-          "validOption": { "外孙": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
+          "validOption": { "grandson": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
           "invalidOptions": [
-            { "外孙女": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
+            { "granddaughter": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
             { "孙女": "7f3cd2dd-da20-4c3c-8fb1-d6beefb43d0e" },
             { "孙子": "4e594d79-ec54-4cc7-8ef0-2a950ebb2de3" }
           ]
@@ -86,8 +86,8 @@
         "explanationTargets": {
           "validOption": { "孙女": "7f3cd2dd-da20-4c3c-8fb1-d6beefb43d0e" },
           "invalidOptions": [
-            { "外孙女": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
-            { "外孙": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
+            { "granddaughter": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
+            { "grandson": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
             { "孙子": "4e594d79-ec54-4cc7-8ef0-2a950ebb2de3" }
           ]
         },
@@ -106,8 +106,8 @@
         "explanationTargets": {
           "validOption": { "孙子": "4e594d79-ec54-4cc7-8ef0-2a950ebb2de3" },
           "invalidOptions": [
-            { "外孙女": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
-            { "外孙": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
+            { "granddaughter": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" },
+            { "grandson": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
             { "孙女": "7f3cd2dd-da20-4c3c-8fb1-d6beefb43d0e" }
           ]
         },

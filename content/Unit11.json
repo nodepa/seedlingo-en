@@ -15,22 +15,22 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
-          { "妈妈": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
+          { "mother": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "四": "da473305-758c-40c0-a61b-d9de0aefb5a4" },
+          { "four": "da473305-758c-40c0-a61b-d9de0aefb5a4" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" }
             ]
           },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
           { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
@@ -38,8 +38,8 @@
               { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
           { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
@@ -48,15 +48,15 @@
               { "姐姐": "b521f4d2-1084-4f17-af18-1bd6738d23a0" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
-              { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
+              { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
             ]
           },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "弟弟": "802939da-7ac0-409c-bfb2-b0d6f81e2f56" },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -67,48 +67,48 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
-          { "爸爸": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
+          { "father": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" }
             ]
           },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
           { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "哥哥": "4e43f1dd-bdd8-4cfb-ad27-8446e44cc754" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
-              { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
+              { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
             ]
           },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "妹妹": "8ee121b4-8522-4e16-91b7-8a2af070efd8" },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -119,7 +119,7 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
@@ -130,37 +130,37 @@
               { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" }
             ]
           },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
-              { "外孙女": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" }
+              { "granddaughter": "83ded6b2-d80b-4a78-bd10-00d4822aefb9" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
-              { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
+              { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
             ]
           },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
-          { "外孙": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { "grandson": "bb91deac-cbe1-4314-b7d3-9662cc82d446" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -171,22 +171,22 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" }
             ]
           },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
@@ -194,17 +194,17 @@
               { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "孙女": "7f3cd2dd-da20-4c3c-8fb1-d6beefb43d0e" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
               { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" }
@@ -212,7 +212,7 @@
           },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孙子": "4e594d79-ec54-4cc7-8ef0-2a950ebb2de3" },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -223,33 +223,33 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           { "妹妹": "8ee121b4-8522-4e16-91b7-8a2af070efd8" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
               { "妹夫": "98d18086-a60a-4f81-80b3-e05bd2aaa400" }
             ]
           },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "四": "da473305-758c-40c0-a61b-d9de0aefb5a4" },
+          { "four": "da473305-758c-40c0-a61b-d9de0aefb5a4" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "四": "da473305-758c-40c0-a61b-d9de0aefb5a4" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "four": "da473305-758c-40c0-a61b-d9de0aefb5a4" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
           {
             "validOptions": [
-              { "四": "da473305-758c-40c0-a61b-d9de0aefb5a4" }
+              { "four": "da473305-758c-40c0-a61b-d9de0aefb5a4" }
             ]
           },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
@@ -258,7 +258,7 @@
               { "外甥女": "b6ebbe69-9834-41f3-a353-4a9142d599b3" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -269,33 +269,33 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           { "弟弟": "802939da-7ac0-409c-bfb2-b0d6f81e2f56" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
               { "弟妹": "75a122a7-4a08-4333-acf1-072483f6a570" }
             ]
           },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "女儿": "34d92533-9c8c-4469-b050-2638f2b5f4d5" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
           {
             "validOptions": [
-              { "一": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
+              { "one": "1d936b6b-e44c-466c-8d04-ab52643670c2" }
             ]
           },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
@@ -304,7 +304,7 @@
               { "侄女": "0087add3-b033-4cac-bb6b-cebf1c1acdd0" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -315,10 +315,10 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           { "姐姐": "b521f4d2-1084-4f17-af18-1bd6738d23a0" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
               { "姐夫": "c48bf08b-df1b-4fa8-a41b-15405ecebf49" }
@@ -328,7 +328,7 @@
           { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
           { "两": "5dbf7670-f66d-46e4-b971-8f8d6de95a5c" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
@@ -336,8 +336,8 @@
               { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
           {
             "validOptions": [
@@ -350,7 +350,7 @@
               { "外甥": "54ff3fa1-141e-4620-861d-335376b3f8f2" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -361,32 +361,32 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "哥哥": "4e43f1dd-bdd8-4cfb-ad27-8446e44cc754" },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
           {
             "validOptions": [
-              { "嫂子": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" }
+              { "sister-in-law": "afaf98c8-5f3d-4be9-8338-3f2942e6be17" }
             ]
           },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           {
             "validOptions": [
               { "儿子": "af7cc883-0091-4d24-800e-95ca67ee451c" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
           {
             "validOptions": [
-              { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" }
+              { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" }
             ]
           },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
@@ -395,7 +395,7 @@
               { "侄子": "dda9c23b-503d-4ada-8293-3450c8bfae7c" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -406,42 +406,42 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
-              { "姥姥": "d63f08dd-f8e6-4b47-940b-8d9d939034a6" }
+              { "grandma": "d63f08dd-f8e6-4b47-940b-8d9d939034a6" }
             ]
           },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
-              { "妈妈": "8da1e3a6-3268-40da-8707-be2a2c902c16" }
+              { "mother": "8da1e3a6-3268-40da-8707-be2a2c902c16" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "妈妈": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "mother": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "大弟弟": "0fcce854-d190-4e88-a3fe-da2e4763f48c" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "妈妈": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "mother": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "小弟弟": "1846e964-c362-417a-815d-3319b2b6aca5" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -452,42 +452,44 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
-              { "奶奶": "5cd464a3-a04a-4ad2-9565-091036425550" }
+              { "grandma": "d63f08dd-f8e6-4b47-940b-8d9d939034a6" }
             ]
           },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
-              { "爸爸": "3773c800-4f9b-4951-b7a7-9e0c9861d089" }
+              { "father": "3773c800-4f9b-4951-b7a7-9e0c9861d089" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "爸爸": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "father": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "大姐": "891c12fc-23a3-4bb9-9744-dbaf2e785624" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "爸爸": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "father": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "二姐": "1d9b329c-a2fa-4eaa-aa2c-39d026a898a7" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          {
+            ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef"
+          }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -498,7 +500,7 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
@@ -506,34 +508,34 @@
             ]
           },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
-              { "妈妈": "8da1e3a6-3268-40da-8707-be2a2c902c16" }
+              { "mother": "8da1e3a6-3268-40da-8707-be2a2c902c16" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "妈妈": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "mother": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "大哥": "3eac3c44-25ef-434e-9e94-1fc71e510557" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "妈妈": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "mother": "8da1e3a6-3268-40da-8707-be2a2c902c16" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "二哥": "abb4c7a4-0c11-4f29-8506-a852f04a0ef5" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
@@ -544,7 +546,7 @@
       "type": "MultiCloze",
       "multiClozeSpec": {
         "text": [
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
@@ -552,34 +554,34 @@
             ]
           },
           { "有": "35389a5a-4493-44e5-a8ae-dc0a30c98dbf" },
-          { "三": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
+          { "three": "84dcd43f-3f86-4be8-a1b0-541ac92133d3" },
           { "个": "90f79865-ac90-4644-9a8b-88eaad30e979" },
           { "孩子": "c8de49d6-d26a-4d62-b959-83cf57327387" },
-          { "：": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
-          { "我": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
+          { ":": "526a8ee7-7525-4b0f-a3a2-92e29618bed3" },
+          { "I": "9f4c842a-e36a-48b1-aa4b-955aedef35d2" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
-              { "爸爸": "3773c800-4f9b-4951-b7a7-9e0c9861d089" }
+              { "father": "3773c800-4f9b-4951-b7a7-9e0c9861d089" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "爸爸": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "father": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "大妹妹": "8531fafd-fd6c-47a2-861b-c401362f17c2" }
             ]
           },
-          { "，": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
-          { "爸爸": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
+          { ",": "3fde2b11-aa78-4a96-9bd4-75c8462132b6" },
+          { "father": "3773c800-4f9b-4951-b7a7-9e0c9861d089" },
           { "的": "843f4af4-5dcb-44a4-b690-759db29999c4" },
           {
             "validOptions": [
               { "小妹妹": "683a0834-e76f-44b4-9858-467b63380147" }
             ]
           },
-          { "。": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
+          { ".": "5d0f410c-83ff-43bd-a31e-922b42b054ef" }
         ],
         "suppressClozeAudio": false,
         "suppressOptionAudio": false
