@@ -55,12 +55,6 @@
       "unitSpecFile": "Unit08.json"
     },
     {
-      "name": "family; children",
-      "icon": "mdiHumanMaleChild",
-      "introductionAudio": "audio/instructions/intro-unit-09.mp3",
-      "unitSpecFile": "Unit09.json"
-    },
-    {
       "name": "my family",
       "icon": "mdiHumanMaleBoy",
       "introductionAudio": "audio/instructions/intro-unit-10.mp3",

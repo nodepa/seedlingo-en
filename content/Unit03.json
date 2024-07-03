@@ -2,13 +2,13 @@
   "formatVersion": "1.4.0",
   "id": "981252ba-3fba-465f-a204-3517f336dbcb",
   "unitIndex": 3,
-  "multipleChoiceCount": 10,
-  "matchingCount": 10,
+  "multipleChoiceCount": 9,
+  "matchingCount": 9,
   "explanationCount": 0,
   "singleClozeCount": 0,
   "multiClozeCount": 0,
   "comprehensionCount": 0,
-  "wordsExercisedCount": 10,
+  "wordsExercisedCount": 9,
   "exercises": [
     {
       "id": "0477935f-158f-4ac1-a646-299f7e1038b8",

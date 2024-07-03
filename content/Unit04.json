@@ -51,12 +51,11 @@
             { "wife": "9ca14628-fd31-4f36-8f99-70dd7c9c8b28" },
             { "grandpa": "6c0f975c-4364-40c7-ae72-cfc2145da7e3" }
           ]
-        },
-        "audio": "audio/mothers-mother.mp3"
+        }
       }
     },
     {
-      "id": "cb6f4821-c2d6-4ccc-b9a1-465e2ddc5e4e",
+      "id": "26e5e0d6-3904-40f6-9ee0-cfa030adbc06",
       "type": "Explanation",
       "explanationSpec": {
         "explanation": [
@@ -72,8 +71,7 @@
             { "wife": "9ca14628-fd31-4f36-8f99-70dd7c9c8b28" },
             { "grandpa": "6c0f975c-4364-40c7-ae72-cfc2145da7e3" }
           ]
-        },
-        "audio": "audio/fathers-mother.mp3"
+        }
       }
     },
     {
@@ -93,12 +91,11 @@
             { "wife": "9ca14628-fd31-4f36-8f99-70dd7c9c8b28" },
             { "grandma": "d63f08dd-f8e6-4b47-940b-8d9d939034a6" }
           ]
-        },
-        "audio": "audio/mothers-father.mp3"
+        }
       }
     },
     {
-      "id": "4bc5c4ee-2a62-40ac-9c6b-c816dcde5330",
+      "id": "25a55f45-855b-44ff-bfbe-c58633032a33",
       "type": "Explanation",
       "explanationSpec": {
         "explanation": [
@@ -114,8 +111,7 @@
             { "wife": "9ca14628-fd31-4f36-8f99-70dd7c9c8b28" },
             { "grandma": "d63f08dd-f8e6-4b47-940b-8d9d939034a6" }
           ]
-        },
-        "audio": "audio/fathers-father.mp3"
+        }
       }
     }
   ]
