@@ -44,7 +44,7 @@ describe('马丽 interacts with the "review" system', () => {
     cy.get('[data-test="review-word"]')
       .as('reviewWord')
       .should('be.visible')
-      .contains('一');
+      .contains('one');
     cy.get(continueButton).should('exist').should('be.visible');
     // 1 word audio played
     cy.get('@audio.play').should('have.callCount', 1);
@@ -88,7 +88,7 @@ describe('马丽 interacts with the "review" system', () => {
     cy.get('[data-test="review-word"]')
       .as('reviewWord')
       .should('be.visible')
-      .contains('二');
+      .contains('two');
     // 1 word audio played
     cy.get('@audio.play').should('have.callCount', 1);
     cy.get('@audio.play').invoke('resetHistory');
